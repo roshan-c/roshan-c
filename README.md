@@ -2,7 +2,7 @@
 - I’m interested in most things to do with programming, especially games and/or cheating programs. 
 - I’m currently learning Lua and GSC scripting. C++ is next on the list. I am fairly fluent in Python.
 - I’m willing to collaborate on projects where you think I will be able to help.
-- Reach me on Twitter at: @r09han, or on Discord at: Roshan#0230
+- Reach me on Twitter at: @r09han, or on Discord at: Roshan 2#0002
 - Current favourite repo: https://github.com/kkent030315/AurumRE
 
 <!---
