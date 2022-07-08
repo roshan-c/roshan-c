@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mail@roshan-c.xyz**
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darklink1234&cover_image=true&theme=novatorem&bar_color=ff0088&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darklink1234&redirect=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/r09han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r09han" height="30" width="40" /></a>
