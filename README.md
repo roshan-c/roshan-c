@@ -1,1 +1,1 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darklink1234&cover_image=true&theme=novatorem&bar_color=ff0088&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darklink1234&redirect=true)
+
