@@ -38,24 +38,6 @@ Tip: To use this as your profile readme, create a repo named exactly your userna
 
 ---
 
-### Featured projects
-<!-- Replace REPO_ONE and REPO_TWO with your pinned repo names -->
-<p align="left">
-  <a href="https://github.com/roshan-c/gaLt">
-    <img alt="REPO_ONE" src="https://github-readme-stats.vercel.app/api/pin/?username=roshan-c&repo=REPO_ONE&theme=transparent&hide_border=true">
-  </a>
-  <a href="https://github.com/york-fs/dashboard">
-    <img alt="REPO_TWO" src="https://github-readme-stats.vercel.app/api/pin/?username=roshan-c&repo=REPO_TWO&theme=transparent&hide_border=true">
-  </a>
-</p>
-
-<!-- Optional: simple text fallbacks if you prefer
-- REPO_ONE — one-liner about what it is and why it exists.
-- REPO_TWO — one-liner about what it is and why it exists.
--->
-
----
-
 ### Toolbox
 - Languages: TypeScript, Python, C#
 - Also: Git/GitHub, testing, documentation, readable/maintainable code
