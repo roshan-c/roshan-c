@@ -1,51 +1,28 @@
-<!--
-Hi! Thanks for checking out my profile README.
+### hi, i'm roshan 👋
 
-Quick edits to personalize:
-- Replace social links in the "Connect" section.
-- Swap REPO_ONE and REPO_TWO with your pinned repo names (or direct links).
-- Tweak wording anywhere to match your vibe.
-
-Tip: To use this as your profile readme, create a repo named exactly your username (roshan-c/roshan-c) and put this README.md in the root.
--->
-
-<h1 align="center">Hi, I'm Roshan (@roshan-c)</h1>
-
-<p align="center">
-  🎓 Student @ <strong>University of Hull</strong> • 💻 TypeScript | Python | C# • 🛠️ OSS & Freedom of Information • 🏁 Member of <a href="https://yorkformulastudent.com/" target="_blank"><strong>York Formula Student</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"></a>
-  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
-</p>
+Computer Science student at the **University of Hull**, based in West Yorkshire, UK.
+I build tools I actually use: agent tooling, local-first apps, and small, direct software that earns its complexity.
+I usually write **TypeScript**.
 
 ---
 
-### About me
-- Student at the University of Hull, building with TypeScript, Python, and C#.
-- Passionate about open source and freedom of information—learning in public and keeping things transparent.
-- Member of York Formula Student: contributing where software meets hardware and time constraints.
+#### 🔭 what i'm working on
 
----
+- **[annoplan](https://github.com/roshan-c/annoplan)**: a macOS reader for PDF, Markdown, and Word files. Highlight, add notes, and let an agent add its own highlights live over MCP. Tauri + Rust + TypeScript, with a local SQLite store.
+- **[triathlon](https://github.com/roshan-c/triathlon)**: a Git-native project board for small teams. All state lives in `board.json` and renders to one self-contained `board.html`. No hosted app and no database. I use it to run my honours project.
+- **My agent setup**: I live in [Pi](https://pi.dev/) and [T3 Code](https://t3.codes), and I write my own skills, tools, and MCP servers for them. I wrote about it in [feeling the vibe](https://roshanc.com/blog/vibing/).
 
-### What I’m into
-- Open source: small, consistent contributions that make tools nicer to use.
-- Practical tooling: scripts, CLIs, and dashboards that reduce friction.
-- Learning by shipping: iterate fast, gather feedback, improve.
+#### 🧰 also built
 
----
+- **[aigis](https://github.com/roshan-c/aigis)**: a Persona 3 Discord companion with RAG memory (Postgres + pgvector), tool calling, and on-demand `SKILL.md` loading. The rewrite of [gaLt](https://github.com/roshan-c/gaLt).
 
-### Toolbox
-- Languages: TypeScript, Python, C#
-- Also: Git/GitHub, testing, documentation, readable/maintainable code
+#### ✍️ recent writing
 
----
+- [feeling the vibe](https://roshanc.com/blog/vibing/): vibe coding is back, now called agentic engineering.
+- [upgrading to Aigis](https://roshanc.com/blog/aigis/): how a 2,270-line `index.ts` became a modular bot.
 
-### Connect
-<!-- Replace placeholders with your links -->
-- Website: https://roshanc.com/ | https://gartblog.xyz/
-- Twitter: https://twitter.com/r09han
-- Email: roshanc@duck.com
+More at **[roshanc.com](https://roshanc.com)**.
+
+#### 📫 find me
+
+[roshanc.com](https://roshanc.com) · [LinkedIn](https://www.linkedin.com/in/roshan-christison-575b661a9/) · [roshanc@duck.com](mailto:roshanc@duck.com)
