@@ -9,7 +9,7 @@ I usually write **TypeScript**.
 #### 🔭 what i'm working on
 
 - **[annoplan](https://github.com/roshan-c/annoplan)**: a macOS reader for PDF, Markdown, and Word files. Highlight, add notes, and let an agent add its own highlights live over MCP. Tauri + Rust + TypeScript, with a local SQLite store.
-- **[triathlon](https://github.com/roshan-c/triathlon)**: a Git-native project board for small teams. All state lives in `board.json` and renders to one self-contained `board.html`. No hosted app and no database. I use it to run my honours project.
+- **[triathlon](https://github.com/roshan-c/triathlon)**: a self-hosted project board for small teams, live at [tri.roshanc.com](https://tri.roshanc.com). An Effect + SQLite server on a Raspberry Pi, with local accounts, read-only share links, and an MCP server so AI agents can read and move tickets. I use it to run my honours project.
 - **My agent setup**: I live in [Pi](https://pi.dev/) and [T3 Code](https://t3.codes), and I write my own skills, tools, and MCP servers for them. I wrote about it in [feeling the vibe](https://roshanc.com/blog/vibing/).
 
 #### 🧰 also built
